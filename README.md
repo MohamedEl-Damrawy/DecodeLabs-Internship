@@ -8,9 +8,9 @@ The projects cover the full workflow from data cleaning to exploratory data anal
 
 | Project | Description |
 |---|---|
-| 📂 Project 1 | Data Cleaning & Preparation of raw e-commerce data |
-| 📂 Project 2 | Exploratory Data Analysis & Financial Diagnostics |
-| 📂 Project 3 | SQL Data Analysis — Querying, Grouping & Business Insights |
+| [📂 Project 1](./Project-1-Data-Cleaning) | Data Cleaning & Preparation of raw e-commerce data |
+| [📂 Project 2](./Project-2-Data-EDA) | Exploratory Data Analysis & Financial Diagnostics |
+| [📂 Project 3](./Project-3-SQL-Data-Analysis) | SQL Data Analysis — Querying, Grouping & Business Insights |
 
 ---
 
